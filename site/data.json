@@ -1,10 +1,10 @@
 {
- "updated": "23 Nov 2026, 14.49 WITA",
- "updatedIso": "2026-11-23T14:49:03.907664+08:00",
+ "updated": "23 Nov 2026, 14.58 WITA",
+ "updatedIso": "2026-11-23T14:58:37.360509+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 17,
-  "views": 0,
+  "views": 2484,
   "videos": 8
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 857,
+   "views": 872,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 844,
+   "views": 850,
    "likes": 11,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -36,21 +36,21 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 670,
+   "views": 688,
    "likes": 7,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
   {
-   "id": "oaovscdKe8Q",
-   "title": "Jurus Andalan Saat Workout 😂 #shorts",
-   "published": "2026-11-23T03:16:39Z",
-   "seconds": 17,
+   "id": "Mf3SelH-zFo",
+   "title": "Plot Twist di Gym: \"Alatnya Lagi Dipakai\" 😂 #shorts",
+   "published": "2026-11-23T03:13:58Z",
+   "seconds": 20,
    "short": true,
-   "views": 14,
+   "views": 29,
    "likes": 4,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+   "comments": 1,
+   "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
   },
   {
    "id": "DHWmpV2cvpY",
@@ -64,17 +64,6 @@
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
   {
-   "id": "SG2hVU1JtNY",
-   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
-   "published": "2026-11-23T03:15:11Z",
-   "seconds": 56,
-   "short": true,
-   "views": 13,
-   "likes": 4,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
-  },
-  {
    "id": "TKcK_vzxNUE",
    "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
    "published": "2026-11-23T03:17:59Z",
@@ -86,15 +75,26 @@
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
   },
   {
-   "id": "Mf3SelH-zFo",
-   "title": "Plot Twist di Gym: \"Alatnya Lagi Dipakai\" 😂 #shorts",
-   "published": "2026-11-23T03:13:58Z",
-   "seconds": 20,
+   "id": "SG2hVU1JtNY",
+   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
+   "published": "2026-11-23T03:15:11Z",
+   "seconds": 56,
    "short": true,
-   "views": 9,
-   "likes": 3,
-   "comments": 1,
-   "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
+   "views": 12,
+   "likes": 4,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
+  },
+  {
+   "id": "oaovscdKe8Q",
+   "title": "Jurus Andalan Saat Workout 😂 #shorts",
+   "published": "2026-11-23T03:16:39Z",
+   "seconds": 17,
+   "short": true,
+   "views": 8,
+   "likes": 4,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
   }
  ],
  "comments": [
