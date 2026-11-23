@@ -1,34 +1,34 @@
 {
- "updated": "23 Nov 2026, 15.37 WITA",
- "updatedIso": "2026-11-23T15:37:25.773902+08:00",
+ "updated": "23 Nov 2026, 16.47 WITA",
+ "updatedIso": "2026-11-23T16:47:33.733391+08:00",
  "channel": {
   "title": "Story Gym",
-  "subscribers": 18,
-  "views": 2919,
+  "subscribers": 20,
+  "views": 3341,
   "videos": 8
  },
  "videos": [
-  {
-   "id": "sebzOPSGi78",
-   "title": "POV: Admin Gym Nungguin Member Perpanjang 😭 #shorts",
-   "published": "2026-11-23T03:11:27Z",
-   "seconds": 15,
-   "short": true,
-   "views": 1142,
-   "likes": 13,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/sebzOPSGi78"
-  },
   {
    "id": "mU2DdcmQNro",
    "title": "Jadwal Gym 5x Seminggu untuk Pemula (Push Pull Legs) 💪 #shorts",
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 957,
-   "likes": 11,
+   "views": 1202,
+   "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
+  },
+  {
+   "id": "sebzOPSGi78",
+   "title": "POV: Admin Gym Nungguin Member Perpanjang 😭 #shorts",
+   "published": "2026-11-23T03:11:27Z",
+   "seconds": 15,
+   "short": true,
+   "views": 1154,
+   "likes": 16,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/sebzOPSGi78"
   },
   {
    "id": "L1ja-siMfY8",
@@ -36,8 +36,8 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 727,
-   "likes": 9,
+   "views": 884,
+   "likes": 12,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
@@ -47,8 +47,8 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 35,
-   "likes": 5,
+   "views": 36,
+   "likes": 8,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
   },
@@ -58,10 +58,21 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 16,
-   "likes": 6,
+   "views": 20,
+   "likes": 9,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
+  },
+  {
+   "id": "SG2hVU1JtNY",
+   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
+   "published": "2026-11-23T03:15:11Z",
+   "seconds": 56,
+   "short": true,
+   "views": 16,
+   "likes": 8,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   },
   {
    "id": "TKcK_vzxNUE",
@@ -84,17 +95,6 @@
    "likes": 5,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
-  },
-  {
-   "id": "SG2hVU1JtNY",
-   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
-   "published": "2026-11-23T03:15:11Z",
-   "seconds": 56,
-   "short": true,
-   "views": 13,
-   "likes": 5,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   }
  ],
  "comments": [
