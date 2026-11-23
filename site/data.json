@@ -1,10 +1,10 @@
 {
- "updated": "23 Nov 2026, 16.47 WITA",
- "updatedIso": "2026-11-23T16:47:33.733391+08:00",
+ "updated": "23 Nov 2026, 16.50 WITA",
+ "updatedIso": "2026-11-23T16:50:14.088916+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 20,
-  "views": 3341,
+  "views": 3360,
   "videos": 8
  },
  "videos": [
@@ -36,7 +36,7 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 884,
+   "views": 897,
    "likes": 12,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
@@ -64,6 +64,28 @@
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
   {
+   "id": "oaovscdKe8Q",
+   "title": "Jurus Andalan Saat Workout 😂 #shorts",
+   "published": "2026-11-23T03:16:39Z",
+   "seconds": 17,
+   "short": true,
+   "views": 19,
+   "likes": 8,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "TKcK_vzxNUE",
+   "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
+   "published": "2026-11-23T03:17:59Z",
+   "seconds": 33,
+   "short": true,
+   "views": 16,
+   "likes": 6,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
+  },
+  {
    "id": "SG2hVU1JtNY",
    "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
    "published": "2026-11-23T03:15:11Z",
@@ -73,28 +95,6 @@
    "likes": 8,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
-  },
-  {
-   "id": "TKcK_vzxNUE",
-   "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
-   "published": "2026-11-23T03:17:59Z",
-   "seconds": 33,
-   "short": true,
-   "views": 15,
-   "likes": 5,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
-  },
-  {
-   "id": "oaovscdKe8Q",
-   "title": "Jurus Andalan Saat Workout 😂 #shorts",
-   "published": "2026-11-23T03:16:39Z",
-   "seconds": 17,
-   "short": true,
-   "views": 14,
-   "likes": 5,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
   }
  ],
  "comments": [
