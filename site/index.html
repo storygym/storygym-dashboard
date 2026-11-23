@@ -66,13 +66,13 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 <div class="wrap">
   <header>
     <div>
-      <div class="tag">YouTube @storygym_official · diperbarui otomatis tiap 6 jam</div>
+      <div class="tag">YouTube @storygym_official · dijaga Gita 📈 · diperbarui otomatis tiap 6 jam</div>
       <h1>Story Gym Dashboard</h1>
     </div>
     <div class="stamp">Data terakhir: <span id="updated">–</span><br><a href="https://www.youtube.com/@storygym_official/shorts">Buka channel</a></div>
   </header>
 
-  <div id="health" class="alert ok" role="status"><span class="dot"></span><span>Memeriksa status agent…</span></div>
+  <div id="health" class="alert ok" role="status"><span class="dot"></span><span>Gita sedang memeriksa status…</span></div>
 
   <section aria-label="Ringkasan">
     <div class="stats">
@@ -153,12 +153,12 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
     if (hours <= LIMIT) {
       var ago = hours < 1 ? Math.max(1, Math.round(hours*60)) + ' menit' : Math.round(hours) + ' jam';
       el.className = 'alert ok';
-      el.innerHTML = '<span class="dot"></span><span>Agent berjalan normal · pembaruan terakhir ' + ago + ' lalu · berikutnya maksimal 6 jam sekali</span>';
+      el.innerHTML = '<span class="dot"></span><span><b style="display:inline;font-family:inherit;text-transform:none;letter-spacing:0;font-size:inherit">Gita:</b> agent berjalan normal · pembaruan terakhir ' + ago + ' lalu · berikutnya maksimal 6 jam sekali</span>';
     } else {
       var since = isFinite(hours) ? 'sejak ' + Math.round(hours) + ' jam lalu' : '(data tidak bisa dibaca)';
       el.className = 'alert bad';
       el.setAttribute('role','alert');
-      el.innerHTML = '<span class="dot"></span><span><b>⚠️ Agent tidak berjalan ' + since + '</b>Data tidak diperbarui lebih dari ' + LIMIT + ' jam. Cek <a href="' + actions + '">GitHub → Actions</a>: lihat baris bertanda silang merah, atau klik <i>Enable workflow</i> jika jadwal dinonaktifkan. Setelah diperbaiki, jalankan <i>Run workflow</i>.</span>';
+      el.innerHTML = '<span class="dot"></span><span><b>⚠️ Gita (agent dashboard) tidak berjalan ' + since + '</b>Data tidak diperbarui lebih dari ' + LIMIT + ' jam. Cek <a href="' + actions + '">GitHub → Actions</a>: lihat baris bertanda silang merah, atau klik <i>Enable workflow</i> jika jadwal dinonaktifkan. Setelah diperbaiki, jalankan <i>Run workflow</i>.</span>';
     }
   }
 
