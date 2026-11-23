@@ -111,7 +111,7 @@ def main():
         "channel": {
             "title": ch["snippet"]["title"],
             "subscribers": None if stats.get("hiddenSubscriberCount") else int(stats.get("subscriberCount", 0)),
-            "views": int(stats.get("viewCount", 0)),
+            "views": max(int(stats.get("viewCount", 0)), sum(v["views"] for v in videos)),
             "videos": int(stats.get("videoCount", 0)),
         },
         "videos": videos,
