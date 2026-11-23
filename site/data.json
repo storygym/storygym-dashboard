@@ -1,10 +1,10 @@
 {
- "updated": "23 Nov 2026, 14.58 WITA",
- "updatedIso": "2026-11-23T14:58:37.360509+08:00",
+ "updated": "23 Nov 2026, 15.28 WITA",
+ "updatedIso": "2026-11-23T15:28:25.502606+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 17,
-  "views": 2484,
+  "views": 2898,
   "videos": 8
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 872,
+   "views": 1134,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 850,
+   "views": 945,
    "likes": 11,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -36,8 +36,8 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 688,
-   "likes": 7,
+   "views": 726,
+   "likes": 9,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
@@ -47,9 +47,9 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 29,
-   "likes": 4,
-   "comments": 1,
+   "views": 35,
+   "likes": 5,
+   "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
   },
   {
@@ -58,8 +58,8 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 13,
-   "likes": 5,
+   "views": 16,
+   "likes": 6,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
@@ -69,21 +69,10 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 12,
-   "likes": 4,
+   "views": 15,
+   "likes": 5,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
-  },
-  {
-   "id": "SG2hVU1JtNY",
-   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
-   "published": "2026-11-23T03:15:11Z",
-   "seconds": 56,
-   "short": true,
-   "views": 12,
-   "likes": 4,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   },
   {
    "id": "oaovscdKe8Q",
@@ -91,10 +80,21 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 8,
-   "likes": 4,
+   "views": 14,
+   "likes": 5,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "SG2hVU1JtNY",
+   "title": "Chest Fly Tapi Dada Nggak Berasa? Cek Posisi Dudukmu #shorts",
+   "published": "2026-11-23T03:15:11Z",
+   "seconds": 56,
+   "short": true,
+   "views": 13,
+   "likes": 5,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   }
  ],
  "comments": [
@@ -103,7 +103,7 @@
    "author": "@migoswara",
    "text": "Kocak... ternyata jadi tempat duduk :-D",
    "published": "2026-11-23T04:03:15Z",
-   "replies": 0
+   "replies": 1
   }
  ]
 }
