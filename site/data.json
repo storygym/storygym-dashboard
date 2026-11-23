@@ -1,10 +1,10 @@
 {
- "updated": "23 Nov 2026, 21.00 WITA",
- "updatedIso": "2026-11-23T21:00:08.399982+08:00",
+ "updated": "24 Nov 2026, 02.51 WITA",
+ "updatedIso": "2026-11-24T02:51:57.359104+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 20,
-  "views": 3524,
+  "views": 3537,
   "videos": 8
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1226,
+   "views": 1230,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1167,
+   "views": 1165,
    "likes": 16,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -36,7 +36,7 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 980,
+   "views": 973,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
@@ -47,7 +47,7 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 42,
+   "views": 44,
    "likes": 8,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
@@ -58,21 +58,10 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 31,
-   "likes": 8,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
-  },
-  {
-   "id": "DHWmpV2cvpY",
-   "title": "Tipe Teman Gym yang Selalu Gagal Fokus 😭 #shorts",
-   "published": "2026-11-23T03:19:46Z",
-   "seconds": 17,
-   "short": true,
-   "views": 27,
+   "views": 41,
    "likes": 9,
    "comments": 0,
-   "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
+   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
   },
   {
    "id": "oaovscdKe8Q",
@@ -80,10 +69,21 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 27,
+   "views": 31,
    "likes": 8,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "DHWmpV2cvpY",
+   "title": "Tipe Teman Gym yang Selalu Gagal Fokus 😭 #shorts",
+   "published": "2026-11-23T03:19:46Z",
+   "seconds": 17,
+   "short": true,
+   "views": 28,
+   "likes": 9,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
   {
    "id": "SG2hVU1JtNY",
@@ -91,7 +91,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 24,
+   "views": 25,
    "likes": 8,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
