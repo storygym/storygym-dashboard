@@ -1,10 +1,10 @@
 {
- "updated": "24 Nov 2026, 21.01 WITA",
- "updatedIso": "2026-11-24T21:01:31.880023+08:00",
+ "updated": "25 Nov 2026, 02.50 WITA",
+ "updatedIso": "2026-11-25T02:50:09.138328+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 30,
-  "views": 8900,
+  "views": 9551,
   "videos": 9
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1467,
+   "views": 1468,
    "likes": 19,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,10 +25,21 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1299,
+   "views": 1313,
    "likes": 11,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "BUjt4R2TYUg",
+   "title": "Jangan Langsung Squat Pakai Barbell! Lakukan Ini Dulu ⚠️",
+   "published": "2026-11-24T10:00:16Z",
+   "seconds": 27,
+   "short": true,
+   "views": 1306,
+   "likes": 6,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
   },
   {
    "id": "mU2DdcmQNro",
@@ -36,7 +47,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1262,
+   "views": 1302,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -47,21 +58,10 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 1212,
+   "views": 1228,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
-  },
-  {
-   "id": "BUjt4R2TYUg",
-   "title": "Jangan Langsung Squat Pakai Barbell! Lakukan Ini Dulu ⚠️",
-   "published": "2026-11-24T10:00:16Z",
-   "seconds": 27,
-   "short": true,
-   "views": 1038,
-   "likes": 7,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
   },
   {
    "id": "L1ja-siMfY8",
@@ -69,7 +69,7 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 976,
+   "views": 977,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
@@ -80,7 +80,7 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 579,
+   "views": 696,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -91,7 +91,7 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 552,
+   "views": 643,
    "likes": 12,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
@@ -102,8 +102,8 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 515,
-   "likes": 16,
+   "views": 618,
+   "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   }
