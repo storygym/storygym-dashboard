@@ -1,10 +1,10 @@
 {
- "updated": "24 Nov 2026, 02.51 WITA",
- "updatedIso": "2026-11-24T02:51:57.359104+08:00",
+ "updated": "24 Nov 2026, 08.52 WITA",
+ "updatedIso": "2026-11-24T08:52:40.328601+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 20,
-  "views": 3537,
+  "views": 3550,
   "videos": 8
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1230,
+   "views": 1237,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -42,6 +42,17 @@
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
   {
+   "id": "TKcK_vzxNUE",
+   "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
+   "published": "2026-11-23T03:17:59Z",
+   "seconds": 33,
+   "short": true,
+   "views": 45,
+   "likes": 9,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
+  },
+  {
    "id": "Mf3SelH-zFo",
    "title": "Plot Twist di Gym: \"Alatnya Lagi Dipakai\" 😂 #shorts",
    "published": "2026-11-23T03:13:58Z",
@@ -51,17 +62,6 @@
    "likes": 8,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
-  },
-  {
-   "id": "TKcK_vzxNUE",
-   "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
-   "published": "2026-11-23T03:17:59Z",
-   "seconds": 33,
-   "short": true,
-   "views": 41,
-   "likes": 9,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
   },
   {
    "id": "oaovscdKe8Q",
@@ -80,7 +80,7 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 28,
+   "views": 29,
    "likes": 9,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
@@ -91,7 +91,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 25,
+   "views": 26,
    "likes": 8,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
