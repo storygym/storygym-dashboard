@@ -1,34 +1,67 @@
 {
- "updated": "24 Nov 2026, 14.59 WITA",
- "updatedIso": "2026-11-24T14:59:56.266216+08:00",
+ "updated": "24 Nov 2026, 21.01 WITA",
+ "updatedIso": "2026-11-24T21:01:31.880023+08:00",
  "channel": {
   "title": "Story Gym",
-  "subscribers": 20,
-  "views": 3561,
-  "videos": 8
+  "subscribers": 30,
+  "views": 8900,
+  "videos": 9
  },
  "videos": [
-  {
-   "id": "mU2DdcmQNro",
-   "title": "Jadwal Gym 5x Seminggu untuk Pemula (Push Pull Legs) 💪 #shorts",
-   "published": "2026-11-23T03:09:58Z",
-   "seconds": 53,
-   "short": true,
-   "views": 1243,
-   "likes": 13,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
-  },
   {
    "id": "sebzOPSGi78",
    "title": "POV: Admin Gym Nungguin Member Perpanjang 😭 #shorts",
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1166,
-   "likes": 16,
+   "views": 1467,
+   "likes": 19,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
+  },
+  {
+   "id": "oaovscdKe8Q",
+   "title": "Jurus Andalan Saat Workout 😂 #shorts",
+   "published": "2026-11-23T03:16:39Z",
+   "seconds": 17,
+   "short": true,
+   "views": 1299,
+   "likes": 11,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "mU2DdcmQNro",
+   "title": "Jadwal Gym 5x Seminggu untuk Pemula (Push Pull Legs) 💪 #shorts",
+   "published": "2026-11-23T03:09:58Z",
+   "seconds": 53,
+   "short": true,
+   "views": 1262,
+   "likes": 15,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
+  },
+  {
+   "id": "DHWmpV2cvpY",
+   "title": "Tipe Teman Gym yang Selalu Gagal Fokus 😭 #shorts",
+   "published": "2026-11-23T03:19:46Z",
+   "seconds": 17,
+   "short": true,
+   "views": 1212,
+   "likes": 13,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
+  },
+  {
+   "id": "BUjt4R2TYUg",
+   "title": "Jangan Langsung Squat Pakai Barbell! Lakukan Ini Dulu ⚠️",
+   "published": "2026-11-24T10:00:16Z",
+   "seconds": 27,
+   "short": true,
+   "views": 1038,
+   "likes": 7,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
   },
   {
    "id": "L1ja-siMfY8",
@@ -36,7 +69,7 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 973,
+   "views": 976,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
@@ -47,8 +80,8 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 46,
-   "likes": 9,
+   "views": 579,
+   "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
   },
@@ -58,32 +91,10 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 44,
-   "likes": 8,
+   "views": 552,
+   "likes": 12,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
-  },
-  {
-   "id": "oaovscdKe8Q",
-   "title": "Jurus Andalan Saat Workout 😂 #shorts",
-   "published": "2026-11-23T03:16:39Z",
-   "seconds": 17,
-   "short": true,
-   "views": 34,
-   "likes": 8,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
-  },
-  {
-   "id": "DHWmpV2cvpY",
-   "title": "Tipe Teman Gym yang Selalu Gagal Fokus 😭 #shorts",
-   "published": "2026-11-23T03:19:46Z",
-   "seconds": 17,
-   "short": true,
-   "views": 29,
-   "likes": 9,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
   {
    "id": "SG2hVU1JtNY",
@@ -91,8 +102,8 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 26,
-   "likes": 8,
+   "views": 515,
+   "likes": 16,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   }
