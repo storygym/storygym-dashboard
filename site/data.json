@@ -1,11 +1,11 @@
 {
- "updated": "25 Nov 2026, 15.04 WITA",
- "updatedIso": "2026-11-25T15:04:06.875855+08:00",
+ "updated": "25 Nov 2026, 21.06 WITA",
+ "updatedIso": "2026-11-25T21:06:03.653853+08:00",
  "channel": {
   "title": "Story Gym",
-  "subscribers": 30,
-  "views": 9661,
-  "videos": 9
+  "subscribers": 31,
+  "views": 10549,
+  "videos": 10
  },
  "videos": [
   {
@@ -14,8 +14,8 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1470,
-   "likes": 19,
+   "views": 1473,
+   "likes": 20,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
   },
@@ -25,8 +25,8 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1327,
-   "likes": 12,
+   "views": 1336,
+   "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
   },
@@ -36,7 +36,7 @@
    "published": "2026-11-24T10:00:16Z",
    "seconds": 27,
    "short": true,
-   "views": 1312,
+   "views": 1315,
    "likes": 7,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
@@ -47,7 +47,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1309,
+   "views": 1311,
    "likes": 16,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -58,7 +58,7 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 1230,
+   "views": 1231,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
@@ -75,12 +75,23 @@
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
   {
+   "id": "rsAN-6hkjwY",
+   "title": "Tipe Teman Gym Pas Set Terakhir 😭",
+   "published": "2026-11-25T10:00:21Z",
+   "seconds": 50,
+   "short": true,
+   "views": 856,
+   "likes": 4,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
+  },
+  {
    "id": "TKcK_vzxNUE",
    "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 730,
+   "views": 742,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -91,8 +102,8 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 670,
-   "likes": 13,
+   "views": 671,
+   "likes": 14,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
   },
@@ -102,7 +113,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 634,
+   "views": 635,
    "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
