@@ -1,10 +1,10 @@
 {
- "updated": "25 Nov 2026, 21.06 WITA",
- "updatedIso": "2026-11-25T21:06:03.653853+08:00",
+ "updated": "26 Nov 2026, 02.43 WITA",
+ "updatedIso": "2026-11-26T02:43:13.394450+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 31,
-  "views": 10549,
+  "views": 10866,
   "videos": 10
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1473,
+   "views": 1474,
    "likes": 20,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1336,
+   "views": 1352,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
@@ -47,7 +47,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1311,
+   "views": 1315,
    "likes": 16,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -64,26 +64,26 @@
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
   },
   {
-   "id": "L1ja-siMfY8",
-   "title": "Latihan Punggung Tapi Nggak Berasa? Ini Kesalahannya ❌ #shorts",
-   "published": "2026-11-23T03:12:42Z",
-   "seconds": 40,
-   "short": true,
-   "views": 979,
-   "likes": 13,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
-  },
-  {
    "id": "rsAN-6hkjwY",
    "title": "Tipe Teman Gym Pas Set Terakhir 😭",
    "published": "2026-11-25T10:00:21Z",
    "seconds": 50,
    "short": true,
-   "views": 856,
-   "likes": 4,
+   "views": 1153,
+   "likes": 3,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
+  },
+  {
+   "id": "L1ja-siMfY8",
+   "title": "Latihan Punggung Tapi Nggak Berasa? Ini Kesalahannya ❌ #shorts",
+   "published": "2026-11-23T03:12:42Z",
+   "seconds": 40,
+   "short": true,
+   "views": 980,
+   "likes": 13,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
   {
    "id": "TKcK_vzxNUE",
@@ -91,7 +91,7 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 742,
+   "views": 741,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -113,7 +113,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 635,
+   "views": 634,
    "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
