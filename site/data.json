@@ -1,11 +1,11 @@
 {
- "updated": "26 Nov 2026, 15.01 WITA",
- "updatedIso": "2026-11-26T15:01:56.171124+08:00",
+ "updated": "26 Nov 2026, 21.04 WITA",
+ "updatedIso": "2026-11-26T21:04:01.869253+08:00",
  "channel": {
   "title": "Story Gym",
-  "subscribers": 31,
-  "views": 10882,
-  "videos": 10
+  "subscribers": 32,
+  "views": 11836,
+  "videos": 11
  },
  "videos": [
   {
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1355,
+   "views": 1357,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
@@ -69,7 +69,7 @@
    "published": "2026-11-25T10:00:21Z",
    "seconds": 50,
    "short": true,
-   "views": 1156,
+   "views": 1157,
    "likes": 3,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
@@ -86,12 +86,23 @@
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
   },
   {
+   "id": "2WVpB6LakKY",
+   "title": "Stop! Kesalahan Latihan Upper Body Ini Bikin Otot Nggak Tumbuh ❌",
+   "published": "2026-11-26T10:00:19Z",
+   "seconds": 31,
+   "short": true,
+   "views": 937,
+   "likes": 8,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
+  },
+  {
    "id": "TKcK_vzxNUE",
    "title": "Latihan Perut Pakai Cable (Lebih Efektif dari Crunch) #shorts",
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 743,
+   "views": 744,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -113,7 +124,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 638,
+   "views": 651,
    "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
