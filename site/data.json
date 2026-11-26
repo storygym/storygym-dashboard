@@ -1,10 +1,10 @@
 {
- "updated": "26 Nov 2026, 21.04 WITA",
- "updatedIso": "2026-11-26T21:04:01.869253+08:00",
+ "updated": "27 Nov 2026, 02.49 WITA",
+ "updatedIso": "2026-11-27T02:49:02.831896+08:00",
  "channel": {
   "title": "Story Gym",
-  "subscribers": 32,
-  "views": 11836,
+  "subscribers": 33,
+  "views": 12071,
   "videos": 11
  },
  "videos": [
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1474,
+   "views": 1477,
    "likes": 20,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1357,
+   "views": 1358,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
@@ -36,7 +36,7 @@
    "published": "2026-11-24T10:00:16Z",
    "seconds": 27,
    "short": true,
-   "views": 1317,
+   "views": 1318,
    "likes": 7,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
@@ -48,7 +48,7 @@
    "seconds": 53,
    "short": true,
    "views": 1316,
-   "likes": 16,
+   "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
   },
@@ -58,10 +58,21 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 1231,
+   "views": 1232,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
+  },
+  {
+   "id": "2WVpB6LakKY",
+   "title": "Stop! Kesalahan Latihan Upper Body Ini Bikin Otot Nggak Tumbuh ❌",
+   "published": "2026-11-26T10:00:19Z",
+   "seconds": 31,
+   "short": true,
+   "views": 1163,
+   "likes": 8,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
   },
   {
    "id": "rsAN-6hkjwY",
@@ -69,7 +80,7 @@
    "published": "2026-11-25T10:00:21Z",
    "seconds": 50,
    "short": true,
-   "views": 1157,
+   "views": 1158,
    "likes": 3,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
@@ -84,17 +95,6 @@
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
-  },
-  {
-   "id": "2WVpB6LakKY",
-   "title": "Stop! Kesalahan Latihan Upper Body Ini Bikin Otot Nggak Tumbuh ❌",
-   "published": "2026-11-26T10:00:19Z",
-   "seconds": 31,
-   "short": true,
-   "views": 937,
-   "likes": 8,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
   },
   {
    "id": "TKcK_vzxNUE",
@@ -124,7 +124,7 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 651,
+   "views": 653,
    "likes": 17,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
