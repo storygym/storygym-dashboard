@@ -1,10 +1,10 @@
 {
- "updated": "27 Nov 2026, 08.58 WITA",
- "updatedIso": "2026-11-27T08:58:31.098847+08:00",
+ "updated": "27 Nov 2026, 15.03 WITA",
+ "updatedIso": "2026-11-27T15:03:47.107621+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 33,
-  "views": 12083,
+  "views": 12098,
   "videos": 11
  },
  "videos": [
@@ -15,7 +15,7 @@
    "seconds": 15,
    "short": true,
    "views": 1477,
-   "likes": 20,
+   "likes": 21,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
   },
@@ -26,7 +26,7 @@
    "seconds": 17,
    "short": true,
    "views": 1360,
-   "likes": 13,
+   "likes": 14,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
   },
@@ -37,7 +37,7 @@
    "seconds": 53,
    "short": true,
    "views": 1323,
-   "likes": 17,
+   "likes": 18,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
   },
@@ -58,21 +58,10 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 1232,
+   "views": 1233,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
-  },
-  {
-   "id": "2WVpB6LakKY",
-   "title": "Stop! Kesalahan Latihan Upper Body Ini Bikin Otot Nggak Tumbuh ❌",
-   "published": "2026-11-26T10:00:19Z",
-   "seconds": 31,
-   "short": true,
-   "views": 1166,
-   "likes": 8,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
   },
   {
    "id": "rsAN-6hkjwY",
@@ -80,10 +69,21 @@
    "published": "2026-11-25T10:00:21Z",
    "seconds": 50,
    "short": true,
-   "views": 1158,
-   "likes": 3,
+   "views": 1169,
+   "likes": 4,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
+  },
+  {
+   "id": "2WVpB6LakKY",
+   "title": "Stop! Kesalahan Latihan Upper Body Ini Bikin Otot Nggak Tumbuh ❌",
+   "published": "2026-11-26T10:00:19Z",
+   "seconds": 31,
+   "short": true,
+   "views": 1168,
+   "likes": 8,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
   },
   {
    "id": "L1ja-siMfY8",
@@ -102,7 +102,7 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 744,
+   "views": 745,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -114,7 +114,7 @@
    "seconds": 20,
    "short": true,
    "views": 672,
-   "likes": 14,
+   "likes": 15,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
   },
@@ -125,7 +125,7 @@
    "seconds": 56,
    "short": true,
    "views": 653,
-   "likes": 17,
+   "likes": 18,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   }
