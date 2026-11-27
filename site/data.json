@@ -1,10 +1,10 @@
 {
- "updated": "27 Nov 2026, 02.49 WITA",
- "updatedIso": "2026-11-27T02:49:02.831896+08:00",
+ "updated": "27 Nov 2026, 08.58 WITA",
+ "updatedIso": "2026-11-27T08:58:31.098847+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 33,
-  "views": 12071,
+  "views": 12083,
   "videos": 11
  },
  "videos": [
@@ -25,10 +25,21 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1358,
+   "views": 1360,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
+  },
+  {
+   "id": "mU2DdcmQNro",
+   "title": "Jadwal Gym 5x Seminggu untuk Pemula (Push Pull Legs) 💪 #shorts",
+   "published": "2026-11-23T03:09:58Z",
+   "seconds": 53,
+   "short": true,
+   "views": 1323,
+   "likes": 17,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
   },
   {
    "id": "BUjt4R2TYUg",
@@ -40,17 +51,6 @@
    "likes": 7,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/BUjt4R2TYUg"
-  },
-  {
-   "id": "mU2DdcmQNro",
-   "title": "Jadwal Gym 5x Seminggu untuk Pemula (Push Pull Legs) 💪 #shorts",
-   "published": "2026-11-23T03:09:58Z",
-   "seconds": 53,
-   "short": true,
-   "views": 1316,
-   "likes": 17,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
   },
   {
    "id": "DHWmpV2cvpY",
@@ -69,7 +69,7 @@
    "published": "2026-11-26T10:00:19Z",
    "seconds": 31,
    "short": true,
-   "views": 1163,
+   "views": 1166,
    "likes": 8,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
