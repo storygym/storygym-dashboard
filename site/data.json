@@ -1,11 +1,11 @@
 {
- "updated": "27 Nov 2026, 15.03 WITA",
- "updatedIso": "2026-11-27T15:03:47.107621+08:00",
+ "updated": "27 Nov 2026, 20.59 WITA",
+ "updatedIso": "2026-11-27T20:59:38.309508+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 33,
-  "views": 12098,
-  "videos": 11
+  "views": 12214,
+  "videos": 12
  },
  "videos": [
   {
@@ -14,7 +14,7 @@
    "published": "2026-11-23T03:11:27Z",
    "seconds": 15,
    "short": true,
-   "views": 1477,
+   "views": 1479,
    "likes": 21,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/sebzOPSGi78"
@@ -25,7 +25,7 @@
    "published": "2026-11-23T03:16:39Z",
    "seconds": 17,
    "short": true,
-   "views": 1360,
+   "views": 1361,
    "likes": 14,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/oaovscdKe8Q"
@@ -36,7 +36,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1323,
+   "views": 1325,
    "likes": 18,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -69,7 +69,7 @@
    "published": "2026-11-25T10:00:21Z",
    "seconds": 50,
    "short": true,
-   "views": 1169,
+   "views": 1189,
    "likes": 4,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/rsAN-6hkjwY"
@@ -91,7 +91,7 @@
    "published": "2026-11-23T03:12:42Z",
    "seconds": 40,
    "short": true,
-   "views": 980,
+   "views": 981,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/L1ja-siMfY8"
@@ -102,7 +102,7 @@
    "published": "2026-11-23T03:17:59Z",
    "seconds": 33,
    "short": true,
-   "views": 745,
+   "views": 746,
    "likes": 15,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/TKcK_vzxNUE"
@@ -113,7 +113,7 @@
    "published": "2026-11-23T03:13:58Z",
    "seconds": 20,
    "short": true,
-   "views": 672,
+   "views": 673,
    "likes": 15,
    "comments": 2,
    "url": "https://www.youtube.com/shorts/Mf3SelH-zFo"
@@ -124,10 +124,21 @@
    "published": "2026-11-23T03:15:11Z",
    "seconds": 56,
    "short": true,
-   "views": 653,
+   "views": 655,
    "likes": 18,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
+  },
+  {
+   "id": "ozXRkPvyQuA",
+   "title": "Kenapa Tempat Latihan Itu Penting? Intip Story Gym Makassar",
+   "published": "2026-11-27T10:00:12Z",
+   "seconds": 39,
+   "short": true,
+   "views": 86,
+   "likes": 0,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/ozXRkPvyQuA"
   }
  ],
  "comments": [
