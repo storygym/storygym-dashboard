@@ -1,11 +1,11 @@
 {
- "updated": "28 Nov 2026, 14.57 WITA",
- "updatedIso": "2026-11-28T14:57:25.126090+08:00",
+ "updated": "28 Nov 2026, 20.49 WITA",
+ "updatedIso": "2026-11-28T20:49:10.330053+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 33,
-  "views": 12265,
-  "videos": 12
+  "views": 12332,
+  "videos": 13
  },
  "videos": [
   {
@@ -36,7 +36,7 @@
    "published": "2026-11-23T03:09:58Z",
    "seconds": 53,
    "short": true,
-   "views": 1330,
+   "views": 1331,
    "likes": 18,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/mU2DdcmQNro"
@@ -69,7 +69,7 @@
    "published": "2026-11-26T10:00:19Z",
    "seconds": 31,
    "short": true,
-   "views": 1202,
+   "views": 1227,
    "likes": 9,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/2WVpB6LakKY"
@@ -135,10 +135,21 @@
    "published": "2026-11-27T10:00:12Z",
    "seconds": 39,
    "short": true,
-   "views": 95,
+   "views": 96,
    "likes": 0,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/ozXRkPvyQuA"
+  },
+  {
+   "id": "JUk_pa2fZKg",
+   "title": "Leg Day Routine untuk Pemula bareng Coach Ilman 🦵🔥",
+   "published": "2026-11-28T10:00:37Z",
+   "seconds": 47,
+   "short": true,
+   "views": 40,
+   "likes": 0,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/JUk_pa2fZKg"
   }
  ],
  "comments": [
