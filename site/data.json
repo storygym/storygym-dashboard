@@ -1,10 +1,10 @@
 {
- "updated": "28 Nov 2026, 20.49 WITA",
- "updatedIso": "2026-11-28T20:49:10.330053+08:00",
+ "updated": "29 Nov 2026, 02.38 WITA",
+ "updatedIso": "2026-11-29T02:38:32.650868+08:00",
  "channel": {
   "title": "Story Gym",
   "subscribers": 33,
-  "views": 12332,
+  "views": 12439,
   "videos": 13
  },
  "videos": [
@@ -58,7 +58,7 @@
    "published": "2026-11-23T03:19:46Z",
    "seconds": 17,
    "short": true,
-   "views": 1233,
+   "views": 1234,
    "likes": 13,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/DHWmpV2cvpY"
@@ -130,26 +130,26 @@
    "url": "https://www.youtube.com/shorts/SG2hVU1JtNY"
   },
   {
-   "id": "ozXRkPvyQuA",
-   "title": "Kenapa Tempat Latihan Itu Penting? Intip Story Gym Makassar",
-   "published": "2026-11-27T10:00:12Z",
-   "seconds": 39,
-   "short": true,
-   "views": 96,
-   "likes": 0,
-   "comments": 0,
-   "url": "https://www.youtube.com/shorts/ozXRkPvyQuA"
-  },
-  {
    "id": "JUk_pa2fZKg",
    "title": "Leg Day Routine untuk Pemula bareng Coach Ilman 🦵🔥",
    "published": "2026-11-28T10:00:37Z",
    "seconds": 47,
    "short": true,
-   "views": 40,
-   "likes": 0,
+   "views": 145,
+   "likes": 1,
    "comments": 0,
    "url": "https://www.youtube.com/shorts/JUk_pa2fZKg"
+  },
+  {
+   "id": "ozXRkPvyQuA",
+   "title": "Kenapa Tempat Latihan Itu Penting? Intip Story Gym Makassar",
+   "published": "2026-11-27T10:00:12Z",
+   "seconds": 39,
+   "short": true,
+   "views": 97,
+   "likes": 0,
+   "comments": 0,
+   "url": "https://www.youtube.com/shorts/ozXRkPvyQuA"
   }
  ],
  "comments": [
